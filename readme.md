@@ -8,4 +8,6 @@ LINUX
 
 <strong>cd</strong>  change directory (ie: cd ~/music)
 
+<strong>ls</strong>  show contents of a directory
+
 GIT
