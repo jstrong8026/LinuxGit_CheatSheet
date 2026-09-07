@@ -32,6 +32,8 @@
 
 <li><strong>git push origin branch-name</strong>  pushes committed changes to GitHub. If you specify a branch name it will push a branch, if you specify main it will push to main</li>
 
+<li><strong>git pull origin branch-name</strong> pulls the version of the named branch from GitHub </li>
+
 <li><strong>git switch branch-name</strong>  newer version of the checkout command. Switches to the branch you named </li>
 
 <li><strong>git switch -c branch-name</strong>  newer version of the checkout -b command. Creates a new branch and switches you over to it in a single command </li>
