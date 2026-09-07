@@ -24,4 +24,7 @@
 <ul>
 <li><strong>git init</strong>  initializes a directory for the first time to use git </li>
 
+<li><strong>git add your-file-name </strong>adds a file or directory to be tracked by GIT </li>
+
+
 </ul>
