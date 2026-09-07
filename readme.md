@@ -4,4 +4,6 @@ LINUX
 
 <strong>pwd</strong> shows what directory you are currently in
 
+mkdir  make a new directory
+
 GIT
