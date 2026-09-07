@@ -18,4 +18,10 @@
 <li><strong>more filename</strong>  views contents of a text file until it fills the active terminal window. Spacebar advances one full screen, q quits</li>
 
 </ul>
-GIT
+
+<h2>GIT</h2>
+
+<ul>
+<li><strong>git init</strong>  initializes a directory for the first time to use git </li>
+
+</ul>
