@@ -10,4 +10,6 @@ LINUX
 
 <strong>ls</strong>  show contents of a directory
 
+<strong>vi</strong>  text editor in Linux.  'i' to edit 'o' to add new line and open editor ':wq' to write and quit
+
 GIT
