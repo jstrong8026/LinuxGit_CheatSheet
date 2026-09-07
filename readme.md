@@ -4,6 +4,8 @@ LINUX
 
 <strong>pwd</strong> shows what directory you are currently in
 
-mkdir  make a new directory
+<strong>mkdir</strong>  make a new directory
+
+<strong>cd</strong>  change directory (ie: cd ~/music)
 
 GIT
