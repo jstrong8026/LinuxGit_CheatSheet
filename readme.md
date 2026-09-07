@@ -26,5 +26,6 @@
 
 <li><strong>git add your-file-name </strong>adds a file or directory to be tracked by GIT </li>
 
+<li><strong>git commit -a -m 'notes-on-what-you-changed'</strong>  commits all changes you made to the file -a and adds a message -m to give work notes on the changes made</li>
 
 </ul>
