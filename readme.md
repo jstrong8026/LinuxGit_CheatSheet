@@ -28,7 +28,10 @@
 
 <li><strong>git commit -a -m 'notes-on-what-you-changed'</strong>  commits all changes you made to the file -a and adds a message -m to give work notes on the changes made</li>
 
+<li><strong>git status</strong>  shows your current branch and shows if there are uncommitted changes</li>
+
 <li><strong>git push origin branch-name</strong>  pushes committed changes to GitHub. If you specify a branch name it will push a branch, if you specify main it will push to main</li>
+
 
 
 </ul>
