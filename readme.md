@@ -34,5 +34,6 @@
 
 <li><strong>git switch branch-name</strong> newer version of the checkout command. Switches to the branch you named </li>
 
+<li><strong>git switch -c branch-name</strong>newer version of the checkout -b command. Creates a new branch and switches you over to it in a single command </li>
 
 </ul>
